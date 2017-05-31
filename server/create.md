@@ -9,3 +9,5 @@
 
 [배포 작업 생성하기](/applicationmap/job/create.md)
 
+![](/assets/server_create.png)![](/assets/server_create_detail.png)
+

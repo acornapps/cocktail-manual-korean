@@ -34,7 +34,7 @@
     * [배포 작업 조회](applicationmap/job/fetch.md)
     * [배포 작업 실행](applicationmap/job/run.md)
     * [배포 작업 삭제](applicationmap/job/remove.md)
-    * [기타](applicationmap/job/etc.md)
+    * [배포 작업 수정, 수정 취소](applicationmap/job/etc.md)
 * [서버](server.md)
   * [서버 생성](server/create.md)
   * [서버 조회](server/c11c-bc84-c870-d68c.md)
