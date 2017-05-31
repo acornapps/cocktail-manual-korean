@@ -6,7 +6,7 @@
 
 현재 Google Cloud Platform, AWS, Azure, BareMetal\(On primise, IDC\) 를 지원합니다.
 
- 
+  
 
 [1.1. 프로바이더 계정 생성](/provider/create.md)
 
