@@ -5,5 +5,5 @@
 3. 등록 버튼\(+ 아이콘\) 선택 
 4. 사용자 정보를 입력 후 생성 버튼 클릭
 
-
+![](/assets/user.png)![](/assets/user_create.png)
 
