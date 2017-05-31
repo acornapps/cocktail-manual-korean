@@ -4,9 +4,7 @@
 
 프로바이더 계정을 관리합니다. 프로바이더 계정을 등록하므로써 해당 프로바이더의 리소스, 미터링 정보를 가져 올 수 있습니다.
 
-현재 Google Cloud Platform, AWS, Azure, BareMetal\(On primise, IDC\) 를 지원합니다.
-
-  
+현재 Google Cloud Platform, AWS, Azure, BareMetal\(On premise, Datacenter\) 를 지원합니다.
 
 [1.1. 프로바이더 계정 생성](/provider/create.md)
 
