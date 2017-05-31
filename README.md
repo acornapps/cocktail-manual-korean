@@ -70,7 +70,9 @@ Cocktail은 Bare Metal, 가상 인프라, Private/Public Cloud가 혼용된 환�
 
 [4.6.4. 배포 작업 삭제](/applicationmap/job/remove.md)
 
-[4.6.5. 기타](/applicationmap/job/etc.md)
+[4.6.5. 배포 작업 수정, 수정 취소](/applicationmap/job/etc.md)
+
+[4.6.6. 서버 재생성, 서버 삭제](/applicationmap/job/etc2.md)
 
 ### [5. 서버](/server.md)
 
