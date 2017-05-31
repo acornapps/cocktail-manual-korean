@@ -40,7 +40,11 @@
 
 [4.6.4. 배포 작업 삭제](/applicationmap/job/remove.md)
 
-[4.6.5. 기타](/applicationmap/job/etc.md)
+[4.6.5. 배포 작업 수정, 수정 취소](/applicationmap/job/etc.md)
+
+[4.6.6. 서버 재생성, 서버 삭제](/applicationmap/job/etc2.md)
+
+
 
 ##### 
 
