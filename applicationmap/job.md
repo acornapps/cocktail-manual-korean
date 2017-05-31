@@ -18,3 +18,5 @@
 
 [4.6.6. 서버 재생성, 서버 삭제](/applicationmap/job/etc2.md)
 
+![](/assets/job.png)
+
