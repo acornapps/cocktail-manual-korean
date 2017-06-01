@@ -8,8 +8,6 @@
 
 사용자의 요청을 받아 비밀번호를 초기화 해줄 수 있다.
 
-[6.1. 관리자](/user/admin.md)
-
 [6.1.1. 사용자 생성](/user/admin/create.md)
 
 [6.1.2. 사용자 조회](/user/admin/fetch.md)
