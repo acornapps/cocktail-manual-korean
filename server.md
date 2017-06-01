@@ -1,4 +1,4 @@
-# 서버 관리
+# 5. 서버 관리
 
 ---
 
@@ -15,6 +15,4 @@
 [5.5. 액션로그 조회](/server/actionlog.md)
 
 [5.6. 스케일 인/아웃](/server/scaleinout.md)
-
-
 
