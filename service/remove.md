@@ -5,5 +5,5 @@
 3. 서비스 목록중 해당 서비스의 액션아이콘
 4. 서비스 삭제
 
-
+![](/assets/service_delete.png)
 
