@@ -8,6 +8,8 @@
   * [프로바이더 계정 조회](provider/fetch.md)
   * [프로바이더 계정 수정](provider/update.md)
   * [프로바이더 계정 삭제](provider/remove.md)
+* [대시보드](b300-c2dc-bcf4-b4dc.md)
+  * test
 * [서비스](service.md)
   * [서비스 생성](service/create.md)
   * [서비스 조회](service/fetch.md)
