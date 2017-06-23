@@ -5,5 +5,5 @@
 3. 프로바이더 목록중 해당 클러스터의 액션아이콘
 4. 프로바이더 삭제
 
-![](/assets/provider_delete.png)
+![](/assets/프로바이더 삭제.png)![](/assets/프로바이더 삭제2.png)![](/assets/프로바이더 삭제3.png)
 

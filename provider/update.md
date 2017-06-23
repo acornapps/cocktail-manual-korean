@@ -6,5 +6,5 @@
 4. 프로바이더 편집
 5. 이름, 유형, 설명 등의 정보를 편집 후 수정 버튼 클릭
 
-![](/assets/provider_edit.png)
+![](/assets/프로바이더 수정.png)![](/assets/프로바이더 수정2.png)
 
