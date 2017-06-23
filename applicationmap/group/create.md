@@ -5,5 +5,5 @@
 3. 그룹 액션 버튼에서 왼쪽에 그룹 추가 혹은 오른쪽에 그룹 추가 선택
 4. 그룹명을 입력 후 Enter 키 입력
 
-![](/assets/group_create.png)
+![](/assets/그룹 생성.png)![](/assets/그룹 생성2.png)![](/assets/그룹 생성3.png)
 

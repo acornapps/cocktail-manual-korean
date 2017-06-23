@@ -4,5 +4,5 @@
 2. 서비스안에 어플리케이션 맵 클릭
 3. 그룹 액션 버튼에서 그룹 삭제
 
-![](/assets/group_delete.png)
+![](/assets/그룹 삭제.png)![](/assets/그룹 삭제2.png)
 

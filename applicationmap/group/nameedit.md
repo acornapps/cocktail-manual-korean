@@ -5,5 +5,5 @@
 3. 그룹 액션 버튼에서 그룹명 변경 선택
 4. 그룹명을 수정한 후 Enter 키 입력
 
-![](/assets/group_name_edit.png)
+![](/assets/그룹 명 변경.png)![](/assets/그룹 명 변경2.png)![](/assets/그룹 명 변경3.png)
 

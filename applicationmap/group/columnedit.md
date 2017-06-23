@@ -5,5 +5,5 @@
 3. 그룹 액션 버튼에서 컬럼수 변경 선택
 4. 1~8사이의 값 선택
 
-![](/assets/map_column_edit.png)
+![](/assets/그룹 컬럼 수 변경.png)![](/assets/그룹 컬럼 수 변경2.png)
 
