@@ -3,5 +3,5 @@
 1. 사용자 메뉴
 2. 로그아웃
 
-![](/assets/user_logout.png)
+![](/assets/로그아웃.png)
 
