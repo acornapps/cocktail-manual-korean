@@ -5,5 +5,5 @@
 3. 클러스터 목록중 해당 클러스터의 액션아이콘
 4. 클러스터 삭제
 
-![](/assets/cluster_delete.png)
+![](/assets/클러스터 삭제.png)![](/assets/클러스터 삭제2.png)
 
