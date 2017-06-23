@@ -5,5 +5,5 @@
 
 어플리케이션 맵 목록에서 맵을 클릭하면 맵의 상세한 내용을 볼 수 있다.
 
-![](/assets/map_view.png)![](/assets/server_view.png)
+![](/assets/어플리케이션 맵 조회.png)![](/assets/어플리케이션 맵 조회2.png)
 
