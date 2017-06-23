@@ -9,5 +9,5 @@
 
 서버 삭제는 생성된 서버를 삭제하는 기능
 
-![](/assets/job_recreate_delete.png)
+![](/assets/서버 재생성, 서버 삭제.png)
 
