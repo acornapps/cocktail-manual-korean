@@ -47,11 +47,11 @@
   * [로그 정보 조회](server/actionlog.md)
   * [스케일 인/아웃](server/scaleinout.md)
 * [카탈로그](ce74-d0c8-b85c-adf8.md)
-  * 카탈로그 생성
-  * 카탈로그 배포
-  * 카탈로그 조회
-  * 카탈로그 수정
-  * 카탈로그 삭제
+  * [카탈로그 생성](ce74-d0c8-b85c-adf8/ce74-d0c8-b85c-adf8-c0dd-c131.md)
+  * [카탈로그 배포](ce74-d0c8-b85c-adf8/ce74-d0c8-b85c-adf8-bc30-d3ec.md)
+  * [카탈로그 조회](ce74-d0c8-b85c-adf8/ce74-d0c8-b85c-adf8-c870-d68c.md)
+  * [카탈로그 수정](ce74-d0c8-b85c-adf8/ce74-d0c8-b85c-adf8-c218-c815.md)
+  * [카탈로그 삭제](ce74-d0c8-b85c-adf8/ce74-d0c8-b85c-adf8-c0ad-c81c.md)
 * [사용자](user.md)
   * [관리자](user/admin.md)
     * [사용자 생성](user/admin/create.md)
