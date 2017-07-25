@@ -8,9 +8,7 @@ cocktail에 서비스된 정보를 사용자에게 쉽게 보여줍니다.
 
 리소스, 모니터링, 미터링도 확인 할 수 있습니다.
 
-![](/assets/dashboard_main.png)
-
-[2.1 리소스](/b300-c2dc-bcf4-b4dc/test.md)
+2.1 리소스
 
 [2.2 모니터링](/b300-c2dc-bcf4-b4dc/baa8-b2c8-d130-b9c1.md)
 
