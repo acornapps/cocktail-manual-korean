@@ -10,7 +10,5 @@ cocktail에 서비스된 정보를 사용자에게 쉽게 보여줍니다.
 
 [2.1 리소스](/b300-c2dc-bcf4-b4dc/b9ac-c18c-c2a4.md)
 
-[2.2 모니터링](/b300-c2dc-bcf4-b4dc/baa8-b2c8-d130-b9c1.md)
 
-[2.3 미터링](/b300-c2dc-bcf4-b4dc/bbf8-d130-b9c1.md)
 

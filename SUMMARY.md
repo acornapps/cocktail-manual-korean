@@ -10,8 +10,6 @@
   * [프로바이더 계정 삭제](provider/remove.md)
 * [대시보드](b300-c2dc-bcf4-b4dc.md)
   * [리소스](b300-c2dc-bcf4-b4dc/b9ac-c18c-c2a4.md)
-  * [모니터링](b300-c2dc-bcf4-b4dc/baa8-b2c8-d130-b9c1.md)
-  * [미터링](b300-c2dc-bcf4-b4dc/bbf8-d130-b9c1.md)
 * [서비스](service.md)
   * [서비스 생성](service/create.md)
   * [서비스 조회](service/fetch.md)
