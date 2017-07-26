@@ -9,5 +9,5 @@
 
 [배포 작업 생성하기](/applicationmap/job/create.md)
 
-![](/assets/서버 생성.png)![](/assets/서버 생성2.png)![](/assets/서버 생성3.png)
+![](/assets/어플리케이션 맵 선택.png)![](/assets/서버 생성.png)![](/assets/서버 생성2.png)
 

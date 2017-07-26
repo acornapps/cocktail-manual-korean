@@ -4,3 +4,5 @@
 
 [배포 작업 편집하기](/applicationmap/job/etc.md)
 
+![](/assets/어플리케이션 맵 선택.png)![](/assets/서버 수정.png)![](/assets/서버 수정2.png)
+
