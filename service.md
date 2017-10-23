@@ -1,14 +1,18 @@
-# 3. 서비스 관리
+# 3. 서비스
 
 ---
 
-제공하고자 하는 서비스 단위로 서비스를 생성하고 관리합니다.
+어플리케이션 맵과 서버를 생성, 관리 할 수 있으며, 로그 조회, 서버를 구성하는 인스턴스의 스케일 인/아웃을 할 수 있습니다.
 
-[3.1. 서비스 생성](/service/create.md)
+[6.1. 서버 생성](/server/create.md)
 
-[3.2. 서비스 조회](/service/fetch.md)
+[6.2. 서버 조회](/server/c11c-bc84-c870-d68c.md)
 
-[3.3. 서비스 수정](/service/update.md)
+[6.3. 서버 수정](/server/update.md)
 
-[3.4. 서비스 삭제](/service/remove.md)
+[6.4. 서버 삭제](/server/remove.md)
+
+[6.5. 액션로그 조회](/server/actionlog.md)
+
+[6.6. 스케일 인/아웃](/server/scaleinout.md)
 
