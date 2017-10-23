@@ -8,7 +8,7 @@
     * [사용자 추가](configuration/user/add.md)
     * [사용자 편집](configuration/user/edit.md)
     * [사용자 삭제](configuration/user/delete.md)
-  * [프로바이더](d658-acbd-c124-c815/d504-b85c-bc14-c774-b354.md)
+  * [프로바이더](configuration/provider/provider.md)
     * [프로바이더 추가](d658-acbd-c124-c815/d504-b85c-bc14-c774-b354/d504-b85c-bc14-c774-b354-cd94-ac00.md)
   * [클러스터](d658-acbd-c124-c815/d074-b7ec-c2a4-d130.md)
     * [클러스터 추가](d658-acbd-c124-c815/d074-b7ec-c2a4-d130/d074-b7ec-c2a4-d130-cd94-ac00.md)
