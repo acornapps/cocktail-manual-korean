@@ -40,6 +40,7 @@
 * [서비스](service.md)
   * [어플리케이션 맵](service/create.md)
     * [어플리케이션 맵 추가](service/create/c5b4-d50c-b9ac-cf00-c774-c158-b9f5-cd94-ac00.md)
+    * [어플리케이션 맵 이름변경](service/create/c5b4-d50c-b9ac-cf00-c774-c158-b9f5-c774-b984-bcc0-acbd.md)
     * [어플리케이션 맵 삭제](service/create/c5b4-d50c-b9ac-cf00-c774-c158-b9f5-c0ad-c81c.md)
     * [클러스터 미터링](service/create/c5b4-d50c-b9ac-cf00-c774-c158-b9f5-bbf8-d130-b9c1.md)
     * [모니터링](service/baa8-b2c8-d130-b9c1.md)
