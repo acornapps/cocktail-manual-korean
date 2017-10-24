@@ -94,5 +94,4 @@
   * [카탈로그 수정](catalog/catalogedit.md)
   * [카탈로그 삭제](catalog/catalogdelete.md)
 * [대시보드](dashboard/b300-c2dc-bcf4-b4dc.md)
-  * [리소스](b300-c2dc-bcf4-b4dc/b9ac-c18c-c2a4.md)
 
