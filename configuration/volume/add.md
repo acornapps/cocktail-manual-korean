@@ -21,28 +21,28 @@
 | 스토리지 플러그인 | Network File System |
 | :--- | :--- |
 | 스토리지 클래스 이름 | cocktail-nfs |
-| 파라미터 |  path : NFS server 의 공유폴더 경로                                               server : NFS server 의 IP |
+| 파라미터 | path : NFS server 의 공유폴더 경로                                               server : NFS server 의 IP |
 
-* 아마존 스토리지 플러그인 사용 시
+.
 
-| 스토리지 플러그인 | **설명** |
+.
+
+* **아마존 스토리지 플러그인 사용 시**![](/assets/aws.png)
+
+| 스토리지 플러그인 | AWS EBS \(아마존 사의 스토리지 서비스\) |
 | :--- | :--- |
-| AWS EBS | Amazon public cloud의 스토리지 서비스 |
+| 스토리지 클래스 이름 | default |
+| 파라미터 | 공란 |
 
-| 스토리지 클래스 이름 & 파라미터 | 설명 |
+.  
+.
+
+* **구글 스토리지 플러그인 사용 시**![](/assets/구글.png)
+
+| 스토리지 플러그인 | Google Persistent Disk \(구글 사의 스토리지 서비스\) |
 | :--- | :--- |
-|  | 스토리지 클래스 이름 : |
-
-| **스토리지 플러그인** |
-| :--- |
-
-
-|  | **설명** |
-| :--- | :--- |
-| Network File System | 네트워크 파일 시스템 |
-| AWS EBS | Amazon public cloud의 스토리지 서비스 |
-| Google Persistent Disk | Google public cloud의 스토리지 서비스 |
-| Azure Disk | Microsoft public cloud의 스토리지 서비스 |
+| 스토리지 클래스 이름 | standard 고정값 |
+| 파라미터 | type : 구글 스토리지 클래스의 유형값              zone : 스토리지 만들어진 zone 값 |
 
 
 
