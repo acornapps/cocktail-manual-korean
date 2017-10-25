@@ -21,8 +21,7 @@
 | 스토리지 플러그인 | Network File System |
 | :--- | :--- |
 | 스토리지 클래스 이름 | cocktail-nfs |
-| 파라미터 | path : NFS server 의 공유폴더 경로                         server : NFS server 의 IP |
-
+| 파라미터 |  path : NFS server 의 공유폴더 경로                                               server : NFS server 의 IP |
 
 * 아마존 스토리지 플러그인 사용 시
 
@@ -44,10 +43,6 @@
 | AWS EBS | Amazon public cloud의 스토리지 서비스 |
 | Google Persistent Disk | Google public cloud의 스토리지 서비스 |
 | Azure Disk | Microsoft public cloud의 스토리지 서비스 |
-
-| 스토리지 클래스 이름 & 파라미터 | 설명 |
-| :--- | :--- |
-| 구글![](blob:file:///efdbaa9b-e818-4b42-9e5a-62cfd2a2fa40) | 스토리지 클래스 이름 : 쿠버네티스 스토리지 클래스 고정 값 |
 
 
 
