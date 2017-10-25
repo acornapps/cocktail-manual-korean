@@ -8,12 +8,12 @@
 
 | **프로바이더** | **설명** |
 | :--- | :--- |
-| Amazon Web Service | Amazon public 클라우드 서비스 |
-| Google Cloud Platform | Amazon public클라우스 서비스 |
-| Microsoft cloud Service | Azure public 클라우드 서비스 |
-| Rovius Cloud | Rovius private 클라우드 서비스 |
-| Onpremise | Baremetal private 클라우드 서비스 |
-| Datacenter | Datacenter 클라우드 서비스 |
+| Amazon Web Service | Amazon사의 public 클라우드 서비스 |
+| Google Cloud Platform | Google사의 public클라우스 서비스 |
+| Microsoft cloud Service | Microsoft사의 public 클라우드 서비스 |
+| Rovius Cloud | Rovius사의 private 클라우드 서비스 |
+| Onpremise | Baremetal환경의 private 클라우드 서비스 |
+| Datacenter | Datacenter환경의 클라우드 서비스 |
 
 | **유형** | **설명** |
 | :--- | :--- |
