@@ -8,17 +8,11 @@ Cocktail은 Bare Metal, 가상 인프라, Private/Public Cloud가 혼용된 환�
 
 ## 목차
 
-### [1. 프로바이더](/provider.md)
+### 1. 로그인
 
 [1.1. 프로바이더 계정 생성](/provider/create.md)
 
-[1.2. 프로바이더 계정 조회](/provider/fetch.md)
-
-[1.3. 프로바이더 계정 수정](/provider/update.md)
-
-[1.4. 프로바이더 계정 삭제](/provider/remove.md)
-
-### [2. 대시보드](/provider.md)
+### 2. 환경설정
 
 [2.1. 리소스](/provider/create.md)
 
