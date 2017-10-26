@@ -23,7 +23,6 @@
   * [볼륨](configuration/volume/volume.md)
     * [볼륨 추가](configuration/volume/add.md)
     * [볼륨 편집](configuration/volume/bcfc-b968-d3b8-c9d1.md)
-    * [볼륨 삭제](configuration/volume/bcfc-b968-c0ad-c81c.md)
 * [서비스](service.md)
   * [서버](service/fetch.md)
     * [그룹 관리](service/fetch/adf8-b8f9-ad00-b9ac.md)
