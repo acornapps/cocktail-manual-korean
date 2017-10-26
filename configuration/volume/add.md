@@ -21,7 +21,7 @@
 | 스토리지 플러그인 | Network File System |
 | :--- | :--- |
 | 스토리지 클래스 이름 | cocktail-nfs 고정 값 |
-| 파라미터 | path : NFS server 의 공유폴더 경로                                               server : NFS server 의 IP |
+| 파라미터 | path : 외부 NFS server 의 공유폴더 경로                                        server : 외부 NFS server 의 IP |
 
 .
 
