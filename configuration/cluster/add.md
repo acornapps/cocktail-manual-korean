@@ -42,7 +42,7 @@
 * 인증유형 : token  
   ![](/assets/token.png)
 
-| Bearer Token | 베어 |
+| Bearer Token | 토큰방식으로 쿠버네티스 인증할 경우 사용 |
 | :--- | :--- |
 
 
