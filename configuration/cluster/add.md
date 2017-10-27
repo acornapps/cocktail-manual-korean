@@ -40,12 +40,10 @@
   | Certificate Authority Data |  |
 
 * 인증유형 : token  
-  ![](/assets/token.png)  
+  ![](/assets/token.png)
 
-
-  | b | d |
-  | :--- | :--- |
-
+| Bearer Token | 베어 |
+| :--- | :--- |
 
 
 
