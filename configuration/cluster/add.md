@@ -39,10 +39,14 @@
   | Certificate CA Certification |  |
   | Certificate Authority Data |  |
 
-* 인증유형 : token
-  ![](/assets/token.png)
-  | Bearer Token |  |
+* 인증유형 : token  
+  ![](/assets/token.png)  
+
+
+  | b | d |
   | :--- | :--- |
+
+
 
 
 
