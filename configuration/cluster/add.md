@@ -36,7 +36,7 @@
   | 사용자 아이디 | admin |
   | :--- | :--- |
   | 패스워드 | AdminPass |
-  | Certificate CA Certification | CA Certification 값 입력 |
+  | Certificate CA Certification | 마스터 서버 접속 후  CA Certification 값 입력 |
   | Certificate Authority Data | Authority Data 값 입력 |
 
 * 인증유형 : token  
