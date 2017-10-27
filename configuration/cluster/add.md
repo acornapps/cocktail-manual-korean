@@ -23,7 +23,7 @@
     | k8s 버전 | 1.6.7 \(칵테일에서 사용중인 쿠버네티스 버전\) |
     | :--- | :--- |
     | 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시엔 L4 VIP\) |
-    | 모니터링 호스트 | InfluxDB 설치 IP |
+    | 모니터링 호스트 | InfluxDB 설치 IP \(칵테일 모니터링을 위해 InfluxDB사용\) |
     | 모니터링 포트 | 30315 \(influxDB 기본 포트\) |
     | 모니터링 사용자 | root \(influxDB 사용자 ID\) |
     | 모니터링 비밀번호 | root \(influxDB 사용자  Passwd\) |
@@ -35,9 +35,9 @@
 
   | 사용자 아이디 | admin |
   | :--- | :--- |
-  | 패스워드 |  |
-  | Certificate CA Certification |  |
-  | Certificate Authority Data |  |
+  | 패스워드 | AdminPass |
+  | Certificate CA Certification | CA Certification 값 입력 |
+  | Certificate Authority Data | Authority Data 값 입력 |
 
 * 인증유형 : token  
   ![](/assets/token.png)
