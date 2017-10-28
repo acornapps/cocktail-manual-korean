@@ -33,18 +33,19 @@
   * MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\) 선택
   * 인증유형 : certification![](/assets/certification.png)ㄴㅇㄹㄴㅇ
   * ㄴㅇㄹ
-  * 
-  | 사용자 아이디 | admin |
-  | :--- | :--- |
-  | 패스워드 | AdminPass |
-  | Certificate CA Certification | 마스터 서버 접속 후  /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값  입력 |
-  | Certificate Authority Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 encode 후 입력 |
+  * | 사용자 아이디 | admin |
+    | :--- | :--- |
+    | 패스워드 | AdminPass |
+    | Certificate CA Certification | 마스터 서버 접속 후  /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값  입력 |
+    | Certificate Authority Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 encode 후 입력 |
 
 * 인증유형 : token  
   ![](/assets/token.png)
 
-| Bearer Token | 토큰방식으로 쿠버네티스 인증할 경우 사용 |
+|  |  |
 | :--- | :--- |
+| Bearer Token | 토큰방식으로 쿠버네티스 인증할 경우 사용 |
+
 
 
 * 프로젝트 ID \( GKE 사용 시에만 필요하며 구글 클러스터를 구성한 프로젝트 아이디를 입력\)![](/assets/프로젝트아이디.png)
