@@ -20,19 +20,20 @@
 * **클러스터 유형**
 
   * 기본값으로 cube 선택![](/assets/큐브클러스터정보.png)
-| k8s 버전 | 1.6.7 \(칵테일에서 사용중인 쿠버네티스 버전\) |
-| :--- | :--- |
-| 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시엔 L4 VIP\) |
-| 모니터링 호스트 | InfluxDB 설치 IP \(칵테일 모니터링을 위해 InfluxDB사용\) |
-| 모니터링 포트 | 30315 \(influxDB 기본 포트\) |
-| 모니터링 사용자 | root \(influxDB 사용자 ID\) |
-| 모니터링 비밀번호 | root \(influxDB 사용자  Passwd\) |
+    | k8s 버전 | 1.6.7 \(칵테일에서 사용중인 쿠버네티스 버전\) |
+    | :--- | :--- |
+    | 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시엔 L4 VIP\) |
+    | 모니터링 호스트 | InfluxDB 설치 IP \(칵테일 모니터링을 위해 InfluxDB사용\) |
+    | 모니터링 포트 | 30315 \(influxDB 기본 포트\) |
+    | 모니터링 사용자 | root \(influxDB 사용자 ID\) |
+    | 모니터링 비밀번호 | root \(influxDB 사용자  Passwd\) |
 
 * 큐브 클러스터 유형
 
   * MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\) 선택
-  * 인증유형 : certification![](/assets/certification.png)
-
+  * 인증유형 : certification![](/assets/certification.png)ㄴㅇㄹㄴㅇ
+  * ㄴㅇㄹ
+  * 
   | 사용자 아이디 | admin |
   | :--- | :--- |
   | 패스워드 | AdminPass |
