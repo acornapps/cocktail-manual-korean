@@ -17,18 +17,17 @@
 
 * **노드포트 지원**![](/assets/노드포트.png)노드 포트 방식에 사용할 ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)
 
-* **클러스터 유형**
+* **클러스터 유형\(기본값으로 cube선택\)**![](/assets/큐브클러스터정보.png)
 
-  * 기본값으로 cube 선택![](/assets/큐브클러스터정보.png)
-    | k8s 버전 | 1.6.7 \(칵테일에서 사용중인 쿠버네티스 버전\) |
-    | :--- | :--- |
-    | 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시엔 L4 VIP\) |
-    | 모니터링 호스트 | InfluxDB 설치 IP \(칵테일 모니터링을 위해 InfluxDB사용\) |
-    | 모니터링 포트 | 30315 \(influxDB 기본 포트\) |
-    | 모니터링 사용자 | root \(influxDB 사용자 ID\) |
-    | 모니터링 비밀번호 | root \(influxDB 사용자  Passwd\) |
+| k8s 버전 | 1.6.7\(칵테일에서 사용중인 쿠버네티스 버전\) |
+| :--- | :--- |
+| 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시 L4 VIP\) |
+| 모니터링 호스트 | InfluxDB 설치 ip\(칵테일 모니터링을 위해 influxDB 사용\) |
+| 모니터링 포트 | 30315\(influxDB 기본 포트\) |
+| 모니터링 사용자 | root\(influxDB 사용자 ID\) |
+| 모니터링 비밀번호 | root\(influxDB 사용자 passwd\) |
 
-* 큐브 클러스터 유형
+* **큐브 클러스터 유형**
 
 MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
 
@@ -40,12 +39,8 @@ MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
 | Certificate CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
 | Certificate Authority Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 encode 후 입력 |
 
-* 인증유형 : token  
-  ![](/assets/token.png)
-
-| Bearer Token | 토큰방식으로 쿠버네티스 인증할 경우 사용 |
-| :--- | :--- |
-
+* 인증유형 : token  \(토큰 방식으로 쿠버네티스 인증할 경우 사용. 칵테일 클러스터는 certification 인증방식 사용하며 기존에 token방식으로 사용하던 클러스터를 등록하고 싶을경우 사용\)  
+  ![](/assets/token.png) 
 
 * 프로젝트 ID \( GKE 사용 시에만 필요하며 구글 클러스터를 구성한 프로젝트 아이디를 입력\)![](/assets/프로젝트아이디.png)
 
