@@ -23,9 +23,7 @@
 | 스토리지 클래스 이름 | cocktail-nfs 고정 값 |
 | 파라미터 | path : 외부 NFS server 의 공유폴더 경로                                        server : 외부 NFS server 의 IP |
 
-.
 
-.
 
 * **아마존 스토리지 플러그인 사용 시**![](/assets/aws.png)
 
@@ -34,8 +32,7 @@
 | 스토리지 클래스 이름 | default 고정값 |
 | 파라미터 | 파라미터 값 없음 |
 
-.  
-.
+
 
 * **구글 스토리지 플러그인 사용 시**![](/assets/구글.png)
 
@@ -44,9 +41,7 @@
 | 스토리지 클래스 이름 | standard 고정값 |
 | 파라미터 | type : 구글 스토리지 클래스의 유형 값                                             zone : 스토리지 생성된 zone 값 |
 
-.
 
-.
 
 * Azure** 스토리지 플러그인 사용 시**![](/assets/azure.png)
 
