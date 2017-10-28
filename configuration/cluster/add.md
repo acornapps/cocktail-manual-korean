@@ -15,7 +15,7 @@
 
 * **인그레스 지원**![](/assets/인그레스.png)인그레스 방식에 사용할 host ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)
 
-* **노드포트 지원**![](/assets/노드포트.png)노드 포트 방식에 사용할 ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)ㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣ
+* **노드포트 지원**![](/assets/노드포트.png)노드 포트 방식에 사용할 ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)
 
 * **클러스터 유형**
 
@@ -23,7 +23,7 @@
     | k8s 버전 | 1.6.7 \(칵테일에서 사용중인 쿠버네티스 버전\) |
     | :--- | :--- |
     | 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시엔 L4 VIP\) |
-    | 모니터링 호스트 | InfluxDB 설치 IP \(칵테일 모니터링을 위해 InfluxDB사용\)       마스터 서버  |
+    | 모니터링 호스트 | InfluxDB 설치 IP \(칵테일 모니터링을 위해 InfluxDB사용\)       마스터 서버 |
     | 모니터링 포트 | 30315 \(influxDB 기본 포트\) |
     | 모니터링 사용자 | root \(influxDB 사용자 ID\) |
     | 모니터링 비밀번호 | root \(influxDB 사용자  Passwd\) |
@@ -36,8 +36,8 @@
   | 사용자 아이디 | admin |
   | :--- | :--- |
   | 패스워드 | AdminPass |
-  | Certificate CA Certification | 마스터 서버 접속 후  CA Certification 값 입력 |
-  | Certificate Authority Data | Authority Data 값 입력 |
+  | Certificate CA Certification | 마스터 서버 접속 후  /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값  입력 |
+  | Certificate Authority Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 encode 후 입력  |
 
 * 인증유형 : token  
   ![](/assets/token.png)
