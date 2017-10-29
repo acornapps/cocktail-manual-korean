@@ -39,13 +39,13 @@
       * [빌드 삭제](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/be4c-b4dc-ad00-b9ac/be4c-b4dc-c0ad-c81c.md)
     * [그룹 관리](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/adf8-b8f9-ad00-b9ac.md)
     * [서버](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84.md)
-      * 서버 생성
+      * [서버 생성](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84/c11c-bc84-c0dd-c131.md)
       * 로그 정보 조회
       * 스케일 인 / 아웃
       * 제거
   * [모니터링](c11c-be44-c2a4/baa8-b2c8-d130-b9c1.md)
   * [배포](c11c-be44-c2a4/bc30-d3ec.md)
-    * 배포 작업 생성
+    * [배포 작업 생성](c11c-be44-c2a4/bc30-d3ec/bc30-d3ec-c791-c5c5-c0dd-c131.md)
     * 배포 작업 실행
     * 배포 작업 삭제
     * 배포 작업 수정, 수정 취소
