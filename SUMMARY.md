@@ -33,8 +33,8 @@
     * [빌드 관리](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/be4c-b4dc-ad00-b9ac.md)
       * [빌드 추가](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/be4c-b4dc-ad00-b9ac/be4c-b4dc-cd94-ac00.md)
       * [작업 설정 편집](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/be4c-b4dc-ad00-b9ac/c791-c5c5-c124-c815-d3b8-c9d1.md)
-      * 히스토리
-      * 빌드 실행
+      * [히스토리](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/be4c-b4dc-ad00-b9ac/d788-c2a4-d1a0-b9ac.md)
+      * [빌드 실행](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/be4c-b4dc-ad00-b9ac/be4c-b4dc-c2e4-d589.md)
       * 로그 보기
       * 빌드 삭제
     * [그룹 관리](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/adf8-b8f9-ad00-b9ac.md)
