@@ -21,7 +21,7 @@
 | 스토리지 플러그인 | Network File System |
 | :--- | :--- |
 | 스토리지 클래스 이름 | **cocktail-nfs 고정 값** |
-| 파라미터 | **path : 외부 NFS server 의 공유폴더 경로                                        server : 외부 NFS server 의 IP** |
+| 파라미터 | **path : **외부 NFS server 의 공유폴더 경로    **                                    server : **외부 NFS server 의 IP |
 
 * **아마존 스토리지 플러그인 사용 시**![](/assets/aws.png)
 
@@ -35,7 +35,7 @@
 | 스토리지 플러그인 | Google Persistent Disk \(구글 사의 스토리지 서비스\) |
 | :--- | :--- |
 | 스토리지 클래스 이름 | **standard 고정값** |
-| 파라미터 | **type : 구글 스토리지 클래스의 유형 값                                            zzone : 스토리지 생성된 zone 값** |
+| 파라미터 | **type : **구글 스토리지 클래스의 유형 값**                                            zzone : **스토리지 생성된 zone 값 |
 
 * Azure** 스토리지 플러그인 사용 시**![](/assets/azure.png)
 
