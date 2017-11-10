@@ -13,12 +13,10 @@
 | Microsoft cloud Service | Microsoft사의 public 클라우드 서비스 |
 | Rovius Cloud | Rovius사의 private 클라우드 서비스 |
 | Onpremise | Baremetal환경의 private 클라우드 서비스 |
-| Datacenter | 삭제 예정 |
 
 | **유형** | **설명** |
 | :--- | :--- |
 | User | 프로바이더 등록을 위한 기본 값. 미터링 아닌 경우 User 선택 |
-| Admin | 삭제 예정 |
 | Metering | Public Cloud를 사용시, 리소스 사용량을 받아오고자 할 때 선택 |
 
 
