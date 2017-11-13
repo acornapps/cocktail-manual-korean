@@ -13,7 +13,6 @@
     * [프로바이더 추가](configuration/provider/add.md)
       * [AWS 프로바이더 추가](configuration/provider/add/aws-d504-b85c-bc14-c774-b354-cd94-ac00.md)
       * [GCP 프로바이더 추가](configuration/provider/add/gcp-d504-b85c-bc14-c774-b354-cd94-ac00.md)
-      * [Azure 프로바이더 추가](configuration/provider/add/azure-d504-b85c-bc14-c774-b354-cd94-ac00.md)
     * [프로바이더 편집](configuration/provider/update.md)
     * [프로바이더 삭제](configuration/provider/d504-b85c-bc14-c774-b354-c0ad-c81c.md)
   * [클러스터](configuration/cluster/d074-b7ec-c2a4-d130.md)
