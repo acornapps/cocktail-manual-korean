@@ -10,7 +10,7 @@
 
 **서버현황**
 
-인프라로 사용하고 있는 클라우드 서비스 프로바이더 별로 배치되어 있는 서버의 개수를 알려 줍니다. 구글 GCP, 아마존 AWS, MS Azure, Bare Metar, Private Cloud Platform이 등록되어 있습니다.
+인프라로 사용하고 있는 클라우드 서비스 프로바이더 별로 배치되어 있는 서버의 개수를 알려 줍니다. 구글 GCP, 아마존 AWS, MS Azure, Bare Metal, Private Cloud Platform이 등록되어 있습니다.
 
 **비용**
 
