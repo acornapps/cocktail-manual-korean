@@ -44,7 +44,6 @@
     * [서버](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84.md)
       * [서버 생성](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84/c11c-bc84-c0dd-c131.md)
       * [로그 정보 조회](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84/b85c-adf8-c815-bcf4-c870-d68c.md)
-      * [스케일 인 / 아웃](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84/c2a4-cf00-c77c-c778-c544-c6c3.md)
       * [제거](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/c11c-bc84/c81c-ac70.md)
   * [모니터링](c11c-be44-c2a4/baa8-b2c8-d130-b9c1.md)
   * [배포](c11c-be44-c2a4/bc30-d3ec.md)
