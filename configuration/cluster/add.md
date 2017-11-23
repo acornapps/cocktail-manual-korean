@@ -10,7 +10,7 @@
 | :--- | :--- |
 | 인그레스 지원 | 인그레스 호스트에 subpath로 서비스 노출하는 방식 |
 | 로드밸런서 지원 | 로드밸런스 기능 지원 |
-| 퍼시트턴트 볼륨 지원 | Public cloud스토리지 및 외부 스토리지 사용 가능 |
+| 퍼시스턴트 볼륨 지원  | Public cloud스토리지 및 외부 스토리지 사용 가능 |
 | 노드포트 지원 | 노드에 포트를 붙여 서비스 노출하는 방식 |
 
 * **인그레스 지원**![](/assets/인그레스.png)인그레스 방식에 사용할 host ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)
@@ -19,9 +19,9 @@
 
 * **클러스터 유형\(기본값으로 cube선택\)**![](/assets/큐브클러스터정보.png)
 
-| **목록**  | **설명**  |
+| **목록** | **설명** |
 | :--- | :--- |
-| k8s 버전  | 1.6.7\(칵테일에서 사용중인 쿠버네티스 버전\)  |
+| k8s 버전 | 1.6.7\(칵테일에서 사용중인 쿠버네티스 버전\) |
 | 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시 L4 VIP\) |
 | 모니터링 호스트 | InfluxDB 설치 ip\(칵테일 모니터링을 위해 influxDB 사용\) |
 | 모니터링 포트 | 30315\(influxDB 기본 포트\) |
@@ -34,11 +34,11 @@ MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
 
 인증유형 : certification![](/assets/certification.png)
 
-| **목록**  | **설명**  |
+| **목록** | **설명** |
 | :--- | :--- |
-| 사용자아이디  | admin |
+| 사용자아이디 | admin |
 | 패스워드 | AdminPass |
-| Certificate CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
+| Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
 | Certificate Authority Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 encode 후 입력 |
 
 * 인증유형 : token  \(토큰 방식으로 쿠버네티스 인증할 경우 사용. 칵테일 클러스터는 certification 인증방식 사용하며 기존에 token방식으로 사용하던 클러스터를 등록하고 싶을경우 사용\)  
