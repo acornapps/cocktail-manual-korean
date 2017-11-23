@@ -4,5 +4,5 @@
 
 프로바이더 계정을 등록하므로써 해당 프로바이더의 리소스, 미터링 정보를 가져 오거나 서버를 생성 할 수 있습니다.
 
-현재 Google Cloud Platform, AWS, Azure, BareMetal\(On premise, Datacenter\) 를 지원합니다.
+현재 Google Cloud Platform, AWS, Azure, BareMetal\(On premise\) 를 지원합니다.
 
