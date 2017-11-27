@@ -4,7 +4,7 @@
 
 프로바이더 계정을 등록함으로써 해당 프로바이더의 리소스, 미터링 정보를 가져 오거나 서버를 생성 할 수 있습니다.
 
-\(미터링 정보는 Google Cloud Platform, AWS 클라우드에 한해 확인이 가능합니다.\)
+\(미터링 정보는 Google Cloud Platform, AWS 클라우드에 한하여 확인이 가능합니다.\)
 
 현재 Google Cloud Platform, AWS, Azure, BareMetal\(On premise\) 를 지원합니다.
 
