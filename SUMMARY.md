@@ -26,6 +26,7 @@
     * [서비스 추가](configuration/service/add.md)
     * [서비스 편집](configuration/service/c11c-be44-c2a4-d3b8-c9d1.md)
     * [서비스 삭제](configuration/service/delete.md)
+    * [서비스 조회](configuration/service/c11c-be44-c2a4-c870-d68c.md)
   * [볼륨](configuration/volume/volume.md)
     * [볼륨 추가](configuration/volume/add.md)
     * [볼륨 편집](configuration/volume/bcfc-b968-d3b8-c9d1.md)
