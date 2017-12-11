@@ -42,7 +42,7 @@ MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
 | 패스워드 | AdminPass |
 | Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
 | Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.pem 파일 값 입력 |
-| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로이동후apiserver-key.pem 파일 값 입력  |
+| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 입력 |
 
 * 프로젝트 ID \( GKE 사용 시에만 필요하며 구글 클러스터를 구성한 프로젝트 아이디를 입력\)![](/assets/프로젝트아이디.png)
 
