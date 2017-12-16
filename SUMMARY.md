@@ -66,6 +66,8 @@
   * [카탈로그 수정](catalog/catalogedit.md)
   * [카탈로그 삭제](catalog/catalogdelete.md)
 * [클러스터 ](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/d074-b7ec-c2a4-d130-bbf8-d130-b9c1.md)
+  * [리소스](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/d074-b7ec-c2a4-d130-bbf8-d130-b9c1/b9ac-c18c-c2a4.md)
+  * [미터링](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/d074-b7ec-c2a4-d130-bbf8-d130-b9c1/bbf8-d130-b9c1.md)
 * [대시보드](dashboard/b300-c2dc-bcf4-b4dc.md)
   * [사용자 관리](dashboard/b300-c2dc-bcf4-b4dc/c0ac-c6a9-c790-ad00-b9ac.md)
 * [고객지원서비스](ace0-ac1d-c9c0-c6d0-c11c-be44-c2a4.md)
