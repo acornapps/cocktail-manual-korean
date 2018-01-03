@@ -16,12 +16,13 @@
 
 ##### c\) 사용하는 스토리지 플러그인에 따라 스토리지 클래스와 파라미터 설정을 해줍니다.
 
-* ##### NFS 스토리지 플러그인 사용 시![](/assets/nfs.png)
+* ##### NFS 스토리지 플러그인 사용 시
+
+![](/assets/nfs추가.png)
 
 | 스토리지 플러그인 | Network File System |
 | :--- | :--- |
 | 스토리지 클래스 이름 | **cocktail-nfs 고정 값** |
-| 파라미터 | **path : **외부 NFS server 의 공유폴더 경로    **                                    server : **외부 NFS server 의 IP |
 
 * **아마존 스토리지 플러그인 사용 시**![](/assets/aws.png)
 
