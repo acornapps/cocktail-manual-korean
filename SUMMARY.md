@@ -15,7 +15,6 @@
       * [GCP 프로바이더 추가](configuration/provider/add/gcp-d504-b85c-bc14-c774-b354-cd94-ac00.md)
     * [프로바이더 편집](configuration/provider/update.md)
     * [프로바이더 삭제](configuration/provider/d504-b85c-bc14-c774-b354-c0ad-c81c.md)
-    * [프로바이더 조회](configuration/provider/d504-b85c-bc14-c774-b354-c870-d68c.md)
   * [클러스터](configuration/cluster/d074-b7ec-c2a4-d130.md)
     * [클러스터 추가](configuration/cluster/add.md)
     * [클러스터 편집](configuration/cluster/d074-b7ec-c2a4-d130-d3b8-c9d1.md)
