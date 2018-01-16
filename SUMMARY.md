@@ -19,7 +19,6 @@
     * [클러스터 추가](configuration/cluster/add.md)
     * [클러스터 편집](configuration/cluster/d074-b7ec-c2a4-d130-d3b8-c9d1.md)
     * [클러스터 삭제](configuration/cluster/d074-b7ec-c2a4-d130-c0ad-c81c.md)
-    * [클러스터 조회](configuration/cluster/d074-b7ec-c2a4-d130-c870-d68c.md)
   * [서비스](configuration/service/service.md)
     * [서비스 추가](configuration/service/add.md)
     * [서비스 편집](configuration/service/c11c-be44-c2a4-d3b8-c9d1.md)
