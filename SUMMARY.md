@@ -9,6 +9,7 @@
     * [사용자 추가](configuration/user/add.md)
     * [사용자 편집](configuration/user/edit.md)
     * [사용자 삭제](configuration/user/delete.md)
+    * [사용자 비밀번호 초기화](configuration/user/c0ac-c6a9-c790-be44-bc00-bc88-d638-cd08-ae30-d654.md)
   * [프로바이더](configuration/provider/provider.md)
     * [프로바이더 추가](configuration/provider/add.md)
       * [AWS 프로바이더 추가](configuration/provider/add/aws-d504-b85c-bc14-c774-b354-cd94-ac00.md)
