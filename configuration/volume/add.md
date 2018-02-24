@@ -34,6 +34,7 @@ NFS static 볼륨은 Retain정책만을 지원하고, 파라미터에 해당 Ser
 | :--- | :--- |
 | 정책 | Static 플러그인은 기본적으로 Retain 정책을 지원합니다. |
 | 스토리지 클래스 이름 | \(비활성화\) |
+| 파라미터 | Server : 스토리지의 IP Address                                                   Path :  mount 경로 |
 
 * **아마존 스토리지 플러그인 사용 시**![](/assets/aws.png)
 
@@ -47,7 +48,7 @@ NFS static 볼륨은 Retain정책만을 지원하고, 파라미터에 해당 Ser
 | 스토리지 플러그인 | Google Persistent Disk \(GCP의 스토리지 서비스\) |
 | :--- | :--- |
 | 스토리지 클래스 이름 | **standard\(기본값\)** |
-| 파라미터 | **type : **구글 스토리지 클래스의 유형 값**                                             zone : **스토리지 생성된 zone 값 |
+| 파라미터 |  **type : **구글 스토리지 클래스의 유형 값**                                      zone : **스토리지 생성된 zone 값 |
 
 * **Azure 스토리지 플러그인 사용 시**![](/assets/azure.png)
 
