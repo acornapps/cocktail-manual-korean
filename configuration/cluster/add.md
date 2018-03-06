@@ -21,10 +21,10 @@
 
 | **목록** | **설명** |
 | :--- | :--- |
-| k8s 버전 | 1.6.7\(칵테일에서 사용중인 쿠버네티스 버전\) |
+| k8s 버전 | 1.8.6\(칵테일에서 사용중인 쿠버네티스 버전\) |
 | 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시 L4 VIP\) - [https://마스터ip:6443](https://마스터ip:6443) 형식을 따른다. |
 | 모니터링 호스트 | InfluxDB 설치 ip\(칵테일 모니터링을 위해 influxDB 사용\) |
-| 모니터링 포트 | 30315\(influxDB 기본 포트\) |
+| 모니터링 포트 | 8004\(influxDB 기본 포트\) |
 | 모니터링 사용자 | root\(influxDB 사용자 ID\) |
 | 모니터링 비밀번호 | root\(influxDB 사용자 passwd\) |
 
@@ -39,8 +39,8 @@ MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
 | **목록** | **설명** |
 | :--- | :--- |
 | Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
-| Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.pem 파일 값 입력 |
-| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver-key.pem 파일 값 입력 |
+| Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력 |
+| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.key 파일 값 입력 |
 
 * 프로젝트 ID \( GKE 사용 시에만 필요하며 구글 클러스터를 구성한 프로젝트 아이디를 입력\)![](/assets/프로젝트아이디.png)
 
