@@ -4,37 +4,29 @@
 
 ##### a\) 환경설정 -&gt; 클러스터 -&gt; 오른쪽 상단 + 모양의 버튼을 클릭합니다.![](/assets/클러추가수정.png)
 
-##### b\) 프로바이더 선택 및 이름, 설명, 클러스터 옵션을 선택합니다.![](/image.kh/image.kh/클러스터추가2.png)
+##### b\) 프로바이더 선택 및 이름, 설명을 작성합니다.![](/assets/클러스터추가2.png)c\) 프로바이더 선택에 따라서 클러스 정보를 입력합니다.![](/assets/클러스터추가3.png)
 
-| **클러스터 옵션** | **설명** |
+| **클러스터 정보 ** | **설명** |
 | :--- | :--- |
-| 인그레스 지원 | 인그레스 호스트에 subpath로 서비스 노출하는 방식 |
-| 로드밸런서 지원 | 로드밸런스 기능 지원 |
-| 퍼시스턴트 볼륨 지원 | Public cloud스토리지 및 외부 스토리지 사용 가능 |
-| 노드포트 지원 | 노드에 포트를 붙여 서비스 노출하는 방식 |
+| 리전 | kubernetes 클러스터 서버의 리전.\(물리서버는 Default.\) |
+| 인증 유형 | kubernetes 인증 유형.\(Token/Certification\) |
+| Ingress Host | 인그레스 방식에 사용할 Host IP Address.\(Master IP or Loadbelancer IP\) |
+| 노드 포트 URL | 노드에 포트를 붙여 서비스 노출하는 방식에서 포트 앞에 사용할  IP.\(Master IP or Loadbelancer IP\) |
+| 노드 포트 범위 | 노드에 포트를 붙여 서비스 노출하는 방식에서 IP뒤에 사용할 포트의 범위\(30000~32767 권장.\) |
+| k8s 버전 | kubernetes 버전에 대한 설명. |
+| 마스터 URL | kubernetes API 주소. [https://마스터](https://마스터) IP:6443 형식을 따른다. |
+| 모니터링 호스트 | InfluxDB가 설치되어 있는 서버의 IP 주소. |
+| 모니터링 포트 | InfluxDB의 포트 정보 |
+| 모니터링 사용자 | InfluxDB 사용자 ID\(기본값-root\) |
+| 모니터링 비밀번호 | InfluxDB 사용자 PW\(기본값-root\) |
 
-* **인그레스 지원**![](/assets/인그레스.png)인그레스 방식에 사용할 host ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)
+* **인증 유형 - token**![](/assets/클러스터추가token.png)
 
-* **노드포트 지원**![](/assets/노드포트.png)노드 포트 방식에 사용할 ip 주소로 마스터 노드 ip주소를 입력한다.\(마스터 노드 L4 구성 시 L4 VIP 입력\)
-
-* **클러스터 유형\(기본값으로 cube선택\)**![](/assets/큐브클러스터정보.png)
-
-| **목록** | **설명** |
+| 목록 | 설명 |
 | :--- | :--- |
-| k8s 버전 | 1.8.6\(칵테일에서 사용중인 쿠버네티스 버전\) |
-| 마스터 URL | 쿠버네티스 마스터 IP \(L4 구성 시 L4 VIP\) - [https://마스터ip:6443](https://마스터ip:6443) 형식을 따른다. |
-| 모니터링 호스트 | InfluxDB 설치 ip\(칵테일 모니터링을 위해 influxDB 사용\) |
-| 모니터링 포트 | 8004\(influxDB 기본 포트\) |
-| 모니터링 사용자 | root\(influxDB 사용자 ID\) |
-| 모니터링 비밀번호 | root\(influxDB 사용자 passwd\) |
+| Bearer Token | k8s 설치시 발급한 토큰값 입력. |
 
-* **큐브 클러스터 유형**
-
-MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
-
-인증유형 : certification
-
-![](/assets/클러스터수정.png)
+* **인증 유형 - certification**![](/assets/클러스터추가certification.png)
 
 | **목록** | **설명** |
 | :--- | :--- |
@@ -42,7 +34,7 @@ MANAGED \(구글 프로바이더 선택시 GKE도 선택 가능\)
 | Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력 |
 | Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.key 파일 값 입력 |
 
-* 프로젝트 ID \( GKE 사용 시에만 필요하며 구글 클러스터를 구성한 프로젝트 아이디를 입력\)![](/assets/프로젝트아이디.png)
+* **프로젝트 ID \( GKE 사용 시에만 필요하며 구글 클러스터를 구성한 프로젝트 아이디를 입력\)**![](/assets/프로젝트아이디.png)
 
 
 

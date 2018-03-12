@@ -11,6 +11,7 @@
 | Amazon Web Service | Amazon사의 public 클라우드 서비스 |
 | Google Cloud Platform | Google사의 public클라우스 서비스 |
 | Microsoft cloud Service | Microsoft사의 public 클라우드 서비스 |
+| Rovius Cloud | Accelerite사의 Enterprise 클라우드 서비 |
 | Onpremise | Baremetal환경의 private 클라우드 서비스 |
 
 | **유형** | **설명** |
