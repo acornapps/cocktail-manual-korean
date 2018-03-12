@@ -21,7 +21,7 @@
 
 | 스토리지 플러그인 | Network Dynamic |
 | :--- | :--- |
-| 정책 | Dynamic 플러그인은 기본적으로 Retain과 Delete 정책을 지원합니다. |
+| 정책 | Dynamic 플러그인은 Retain과 Delete 정책을 지원합니다. |
 | 스토리지 클래스 이름 | cocktail-nfs\(기본값\) |
 
 * **NFS Static 스토리지 플러그인 사용 시**
