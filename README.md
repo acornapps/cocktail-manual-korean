@@ -66,6 +66,10 @@ Cocktail은 Bare Metal, 가상 인프라, Private/Public Cloud가 혼용된 환�
 
 ### [7. 용어 설명](/c6a9-c5b4-c815-b9ac.md)
 
+##### 7.1 Kubernetes
+
+##### 7.2 Cocktail Cloud
+
 ### [8. 고객지원 서비스](/ace0-ac1d-c9c0-c6d0-c11c-be44-c2a4.md)
 
 
