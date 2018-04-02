@@ -62,7 +62,7 @@ Cocktail은 Bare Metal, 가상 인프라, Private/Public Cloud가 혼용된 환�
 
 ### [6. 대시보드](/dashboard/b300-c2dc-bcf4-b4dc.md)
 
-##### 6.1 사용자 메뉴
+##### 6.1 사용자 관
 
 ### [7. 용어 설명](/c6a9-c5b4-c815-b9ac.md)
 
