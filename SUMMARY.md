@@ -25,11 +25,13 @@
     * [클러스터 추가](configuration/cluster/add.md)
     * [클러스터 편집](configuration/cluster/d074-b7ec-c2a4-d130-d3b8-c9d1.md)
     * [클러스터 삭제](configuration/cluster/d074-b7ec-c2a4-d130-c0ad-c81c.md)
-  * [스토리지](configuration/volume/volume.md)
+  * [노드](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/d074-b7ec-c2a4-d130-bbf8-d130-b9c1/b9ac-c18c-c2a4.md)
+  * 어플리케이션
+  * [볼륨](configuration/volume/volume.md)
     * [스토리지 추가](configuration/volume/add.md)
     * [스토리지 편집](configuration/volume/bcfc-b968-d3b8-c9d1.md)
     * [스토리지 제거](configuration/volume/c2a4-d1a0-b9ac-c9c0-c81c-ac70.md)
-  * [리소스](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/d074-b7ec-c2a4-d130-bbf8-d130-b9c1/b9ac-c18c-c2a4.md)
+  * 알람
   * [미터링](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5/d074-b7ec-c2a4-d130-bbf8-d130-b9c1/bbf8-d130-b9c1.md)
 * [서비스](c11c-be44-c2a4.md)
   * [어플리케이션 맵](c11c-be44-c2a4/c5b4-d50c-b9ac-cf00-c774-c158-b9f5.md)
