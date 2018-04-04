@@ -72,8 +72,10 @@
 
 * **인증 유형 - certification**![](/assets/2.3.0 클러스터 추가6-1.png)
 
-| 인증키  | **설명** |
+| 인증 정보 | **설명** |
 | :--- | :--- |
+| 사용자 아이디  | 기본값-admin |
+| 패스워드 | 기본값-AdminPass |
 | Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
 | Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력 |
 | Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.key 파일 값 입력 |
