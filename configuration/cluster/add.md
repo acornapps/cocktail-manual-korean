@@ -2,7 +2,7 @@
 
 클러스터를 추가 등록할 수 있습니다.
 
-##### a\)    클러스터 -&gt; 오른쪽 상단 + 모양의 버튼을 클릭합니다.![](/assets/2.3.0 클러스터 추가.png)
+##### a\)    클러스터 → 오른쪽 상단 + 모양의 버튼을 클릭합니다.![](/assets/2.3.0 클러스터 추가.png)
 
 ##### b\)  기본 정보\(이름, k8s 버전, 설명\)를 입력합니다.![](/assets/2.3.0 클러스터 추가2.png)
 
@@ -74,7 +74,7 @@
 
 | 인증 정보 | **설명** |
 | :--- | :--- |
-| 사용자 아이디  | 기본값-admin |
+| 사용자 아이디 | 기본값-admin |
 | 패스워드 | 기본값-AdminPass |
 | Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
 | Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력 |
