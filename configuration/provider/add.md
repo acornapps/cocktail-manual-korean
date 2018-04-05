@@ -8,16 +8,16 @@
 
 | 프로바이 | **설명** |
 | :--- | :--- |
-| Amazon Web Service | Amazon사의 public 클라우드 서비스 |
-| Google Cloud Platform | Google사의 public클라우스 서비스 |
-| Microsoft cloud Service | Microsoft사의 public 클라우드 서비스 |
-| Rovius Cloud | Accelerite사의 Enterprise 클라우드 서비 |
-| Onpremise | Baremetal환경의 private 클라우드 서비스 |
+| Amazon Web Service | Amazon사의 public 클라우드 서비스입니다. |
+| Google Cloud Platform | Google사의 public클라우스 서비스입니다. |
+| Microsoft cloud Service | Microsoft사의 public 클라우드 서비스입니다. |
+| Rovius Cloud | Accelerite사의 Enterprise 클라우드 서비스입니다. |
+| Onpremise | Baremetal환경의 private 클라우드 서비스입니다. |
 
 | **유형** | **설명** |
 | :--- | :--- |
-| User | 계정 등록을 위한 기본 값. 미터링 아닌 경우 User 선택 |
-| Metering | Public Cloud를 사용시, 리소스 사용량을 받아오고자 할 때 선택 |
+| User | 계정 등록을 위한 기본 값입니다. |
+| Metering | Public Cloud를 사용시, 리소스 사용량을 받아올때 선택합니다. |
 
 
 
