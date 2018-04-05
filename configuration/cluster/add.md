@@ -8,9 +8,9 @@
 
 | **기본 정보** | 설명 |
 | :--- | :--- |
-| 이름 | 등록할 클러스터의 이름 |
-| k8s 버전 | 클러스터에 설치된 Kubernetes의 버전정보 |
-| 설명 | 클러스터에 대한 사용자 설명 |
+| 이름 | 등록할 클러스터의 이름입니다. |
+| k8s 버전 | 클러스터에 설치된 Kubernetes의 버전정보입니다. |
+| 설명 | 클러스터에 대한 사용자 설명입니다. |
 
 ##### c-1\) 프로바이더 정보\(계정, 유형, 리전\)를 입력합니다.
 
@@ -18,15 +18,15 @@
 
 | **프로바이더** | **설명** |
 | :--- | :--- |
-| 계정 | 등록된 계정 |
-| 유형 | Kubernetes의 사용 유형으로 MANAGED, PROVIER, GKE 제공 |
-| 리전 | Kubernetes가 설치된 서버의 리전 |
+| 계정 | 등록된 계정입니다. |
+| 유형 | Kubernetes의 사용 유형으로 MANAGED, PROVIER, GKE 제공합니다. |
+| 리전 | Kubernetes가 설치된 서버의 리전입니다. |
 
 | **유형** | **설명** |
 | :--- | :--- |
-| MANAGED | CUBE Installer를 이용하여 kubernetes를 구성한 클러스터 |
-| PROVIDER | Public Cloud의 VM을 이용하여 Kubernetes를 이용하지만 Public Cloud를 이용할 경우\(로드밸런서와 스토리지 등 기타 서비스를 이용할 경우\) |
-| GKE | Google Cloud Platform의 Google Kubernetes Engine으로 구성한 클러스터 |
+| MANAGED | CUBE Installer를 이용하여 kubernetes를 구성한 클러스터입니다. |
+| PROVIDER | Public Cloud의 VM을 이용하여 Kubernetes를 이용하지만 Public Cloud를 이용할 경우에 사용합니다.\(로드밸런서와 스토리지 등 기타 서비스를 이용할 경우\) |
+| GKE | Google Cloud Platform의 Google Kubernetes Engine으로 구성한 클러스터입다. |
 
 #### ㅤ
 
@@ -34,8 +34,8 @@
 
 | **추가입력** | **설명** |
 | :--- | :--- |
-| 노드 포트 URL | 노드에 포트를 붙여 서비스 노출하는 방식에서 포트 앞에 사용할  IP.\(Master IP or Loadbelancer IP\) |
-| 노드 포트 범위 | 노드에 포트를 붙여 서비스 노출하는 방식에서 IP뒤에 사용할 포트의 범위\(30000~32767 권장\) |
+| 노드 포트 URL | 노드에 포트를 붙여 서비스 노출하는 방식에서 포트 앞에 사용할  IP서비스입니다.\(Master IP or Loadbelancer IP\) |
+| 노드 포트 범위 | 노드에 포트를 붙여 서비스 노출하는 방식에서 IP뒤에 사용할 포트의 범위입니다.\(30000~32767 권장\) |
 
 #### ㅤ
 
@@ -47,7 +47,7 @@
 
 | **추가입력** | **설명** |
 | :--- | :--- |
-| 프로젝트 아이디 | Google Cloud Platform의 계정이 사용할 프로젝트의 아이디\(GKE를 사용할 프로젝트\) |
+| 프로젝트 아이디 | Google Cloud Platform의 계정이 사용할 프로젝트의 아이디입니다.\(GKE를 사용할 프로젝트\) |
 
 ##### 
 
@@ -55,18 +55,18 @@
 
 | **모니터링 정보 ** | **설명** |
 | :--- | :--- |
-| 마스터 URL | kubernetes API 주소. [https://마스터](https://마스터) IP:6443 형식을 따른다. |
-| Ingress Host | 인그레스 방식에 사용할 Host IP Address.\(Master IP or Loadbelancer IP\) |
-| 모니터링 호스트 | InfluxDB가 설치되어 있는 서버의 IP 주소. |
-| 모니터링 포트 | InfluxDB의 포트 정보 |
-| 모니터링 사용자 | InfluxDB 사용자 ID\(기본값-root\) |
-| 모니터링 비밀번호 | InfluxDB 사용자 PW\(기본값-root\) |
+| 마스터 URL | kubernetes API 주소. [https://마스터](https://마스터) IP:6443 형식을 사용합니다. |
+| Ingress Host | 인그레스 방식에 사용할 Host IP Address 서비스입니다.\(Master IP or Loadbelancer IP\) |
+| 모니터링 호스트 | InfluxDB가 설치되어 있는 서버의 IP 주소입니다. |
+| 모니터링 포트 | InfluxDB의 포트 정보입니다. |
+| 모니터링 사용자 | InfluxDB 사용자 ID값입니다. - root |
+| 모니터링 비밀번호 | InfluxDB 사용자 PW값입니다. - root |
 
 ##### e\) 클러스터 유형을 입력합니다.![](/assets/2.3.0 클러스터 추가6.png)
 
 | **클러스터 유형 정보** | **설명** |
 | :--- | :--- |
-| 인증 유형 | k8s 클러스터를 사용하기 위한 인증수단 |
+| 인증 유형 | k8s 클러스터를 사용하기 위한 인증수단입니다. |
 
 #### ㅤ
 
@@ -74,11 +74,11 @@
 
 | 인증 정보 | **설명** |
 | :--- | :--- |
-| 사용자 아이디 | 기본값-admin |
-| 패스워드 | 기본값-AdminPass |
-| Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력 |
-| Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력 |
-| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.key 파일 값 입력 |
+| 사용자 아이디 | k8s 사용자 ID입니다. - admin |
+| 패스워드 | k8s 사용자 PW입니다. - AdminPass |
+| Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력합니다. |
+| Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력합니다. |
+| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.key 파일 값 입력합니다. |
 
 
 
