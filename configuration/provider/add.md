@@ -1,6 +1,6 @@
 ### 2.2.1 계정 추가
 
-계정을 추가하여 사용할 수 있습니다. \([AWS 프로바이더](/configuration/provider/add/aws-d504-b85c-bc14-c774-b354-cd94-ac00.md), [GCP 프로바이더](/configuration/provider/add/gcp-d504-b85c-bc14-c774-b354-cd94-ac00.md)의 경우 추가정보 입력이 필요합니다.\)
+계정을 추가하여 사용할 수 있습니다. \([AWS 계정](/configuration/provider/add/aws-d504-b85c-bc14-c774-b354-cd94-ac00.md), [GCP 계정](/configuration/provider/add/gcp-d504-b85c-bc14-c774-b354-cd94-ac00.md)의 경우 추가정보 입력이 필요합니다.\)
 
 ##### a\)    환경설정 → 계정 → 우측 상단 + 모양의 버튼을 클릭합니다.![](/assets/2.3.0 계정 추가.png)
 
