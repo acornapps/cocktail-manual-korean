@@ -1,4 +1,4 @@
-### 2.2.1 프로바이더 추가
+### 2.2.1 계정 추가
 
 계정을 추가하여 사용할 수 있습니다. \([AWS 프로바이더](/configuration/provider/add/aws-d504-b85c-bc14-c774-b354-cd94-ac00.md), [GCP 프로바이더](/configuration/provider/add/gcp-d504-b85c-bc14-c774-b354-cd94-ac00.md)의 경우 추가정보 입력이 필요합니다.\)
 
