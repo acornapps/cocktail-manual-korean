@@ -78,9 +78,9 @@
 | :--- | :--- |
 | 사용자 아이디 | k8s 사용자 ID입니다. - admin |
 | 패스워드 | k8s 사용자 PW입니다. - AdminPass |
-| Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.pem파일 값 입력합니다. |
-| Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.crt 파일 값 입력합니다. |
-| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 apiserver.key 파일 값 입력합니다. |
+| Cluster CA Certification | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 ca.crt파일 값 입력합니다. |
+| Client Certificate Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 admin.crt 파일 값 입력합니다. |
+| Client Key Data | 마스터 서버 접속 후 /etc/kubernetes/pki 경로 이동 후 admin.key 파일 값 입력합니다. |
 
 
 
