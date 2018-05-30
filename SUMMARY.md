@@ -1,6 +1,6 @@
 # Summary
 
-## 칵테일 튜토리얼 v2.3.2
+## Cocktail Cloud 사용설명서 v2.3.2
 
 * [Cocktail Cloud 이해](README.md)
   * [Cocktail Cloud 구성 개요](cocktail-cloud-ad6c-c131-ac1c-c694.md)
@@ -9,7 +9,7 @@
   * [파이프라인 레이어](d30c-c774-d504-b77c-c778-b808-c774-c5b4.md)
   * [카탈로그 레이어](catalog-layer-ce74-d0c8-b85c-adf8-b808-c774-c5b429.md)
   * [대시보드 레이어](b300-c2dc-bcf4-b4dc-b808-c774-c5b4.md)
-* [목차](baa9-cc28.md)
+* [Cocktail Cloud 사용설명서](baa9-cc28.md)
 * [로그인](b85c-adf8-c778.md)
 * [환경설정](d658-acbd-c124-c815.md)
   * [사용자](configuration/user/user.md)
