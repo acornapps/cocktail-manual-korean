@@ -23,7 +23,7 @@
 | **프로바이더** | **설명** |
 | :--- | :--- |
 | 계정 | 등록된 계정 |
-| 유형 | Kubernetes의 사용 유형으로 MANAGED, PROVIER, GKE중 선택  |
+| 유형 | Kubernetes의 사용 유형으로 MANAGED, PROVIER, GKE중 선택 |
 | 리전 | Kubernetes가 설치된 서버의 리전 |
 
 | **유형** | **설명** |
@@ -61,8 +61,8 @@
 | :--- | :--- |
 | 마스터 URL | kubernetes API 주소. [https://마스터](https://마스터) IP:6443 형식을 사용한다. |
 | Ingress Host | 인그레스 방식에 사용할 Host IP Address 서비스입니다.\(Master IP or Loadbelancer IP\) |
-| 모니터링 호스트 | InfluxDB가 설치되어 있는 서버의 IP 주소 |
-| 모니터링 포트 | InfluxDB의 포트 정보 |
+| 모니터링 호스트 | InfluxDB가 설치되어 있는 서버의 IP 주소" http://아이피 or URL" |
+| 모니터링 포트 | InfluxDB의 포트 정보\( Azure-8008, Baremetal 30008 \) |
 | 모니터링 사용자 | InfluxDB 사용자 ID값. - root |
 | 모니터링 비밀번호 | InfluxDB 사용자 PW값. - root |
 
