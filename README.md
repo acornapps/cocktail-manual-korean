@@ -1,4 +1,4 @@
-# Cocktail Cloud란?1
+# Cocktail Cloud란?
 
 ---
 
